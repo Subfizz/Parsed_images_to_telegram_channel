@@ -9,3 +9,5 @@
 <br>Pillow~=10.1.0</br>
 <h1>Installing dependencies</h1>
 <code>$ pip install -r requirements.txt</code>
+<h1>Clone repository to your project</h1>
+<code>git clone https://github.com/Subfizz/Parsed_images_to_telegram_channel</code>
