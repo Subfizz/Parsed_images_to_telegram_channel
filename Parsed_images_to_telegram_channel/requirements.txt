@@ -1,7 +1,0 @@
-fake_headers
-requests~=2.31.0
-bs4~=0.0.1
-wget~=3.2
-schedule~=1.2.1
-beautifulsoup4~=4.12.2
-Pillow~=10.1.0
