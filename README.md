@@ -1,5 +1,4 @@
-# Parsed_images_to_telegram_channel
-<b>parse the pictures according to your request and send them to your telegram channel according to the schedule</b>
+
 <h1>Required libraries:</h1>
 <br>fake_headers</br>
 <br>requests~=2.31.0</br>
